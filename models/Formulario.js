@@ -7,8 +7,10 @@ const formularioSchema = new Schema({
   pregunta2:String,
   pregunta3:String,
   pregunta4:String,
+  pregunta5:String,
   comentario1:String,
-  comentario2:String
+  comentario2:String,
+  comentario3:String
 
 },{
   timestamps:true
